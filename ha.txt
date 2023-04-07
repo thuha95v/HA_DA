@@ -1,0 +1,18 @@
+Đồ án 
+Ngày 28/1
+-Cấu trúc 4 phần:
+có một số dl đc sd lại nhiều lần( ko thay đổi nhưng vẫn phải lấy) , 
+redis là chỗ lthuowngf xuyên đc sd,ko thường xuyên thay đổi
+container- docker(ảo hóa) chạy trên các hệ điều hành chỉ bằng một dòng lệnh.
+nếu bth sẽ phải cài nhiều phần mềm khác. Đồ án của e dùng docker, thì e có thể chạy và cài ngay trên máy 
+chỉ bằng một dòng lệnh, e chỉ cần tìm hiểu cách chạy docker trên máy
+e dùng docker khi đẩy lên sẻrver :
+nó giúp e cài đặt nhanh hơn, giú
+nó chạy đc trên các máy mà đáp ứng đc cấu hình của docker
+chạy trên server thì ko cần cài pm j chỉ cần cài docker
+user-id: lưu tên ng đăng bài
+cart- product(json) cho phép lưu dưới dạng mảng , khi thay đổi chỉ cần update lại trường sp
+Ngày 3/2
+Câu hỏi
+- Cloudinary:
+- Code git
